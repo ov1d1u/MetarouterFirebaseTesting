@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336827507165",
+    "firebase_url": "https://metarouter-test-3d049.firebaseio.com",
+    "project_id": "metarouter-test-3d049",
+    "storage_bucket": "metarouter-test-3d049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336827507165:android:23bf6f470a060312775634",
+        "android_client_info": {
+          "package_name": "net.softadept.metarouterfirebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336827507165-l6tap1tdkjmsj35fdi0ela5r88iases3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfWNycjfX9cVb6ZgKhDdminj1vZdzVq0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336827507165-l6tap1tdkjmsj35fdi0ela5r88iases3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336827507165-b9hl99dn57n89914hg2fb06qiudh4b0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.metarouter.FirebaseTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
